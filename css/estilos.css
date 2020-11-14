@@ -236,3 +236,12 @@ footer{
 .contact a{
 	color: var(--green-color);
 }
+
+.content-preguntas{
+	background-color: gray;
+	color: var(--white-color);
+}
+
+
+	
+
