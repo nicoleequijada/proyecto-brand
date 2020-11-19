@@ -29,6 +29,7 @@ nav{
 	color: var(--white-color);
 	justify-content: space-between;
 	align-items: center;
+	height: auto;
 
 }
 
@@ -242,6 +243,25 @@ footer{
 	color: var(--white-color);
 }
 
+@media (max-width: 768px){
+
+	.products{
+		display: inherit;
+		height: auto;
+	}
+
+	.product{
+		margin-top: auto;
+	}
+
+	.maind_secction{
+		padding: 4%;
+	}
+	.beneficios, .mentions{
+		display: inherit;
+	}
+	
+}
 
 	
 
